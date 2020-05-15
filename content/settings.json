@@ -1,22 +1,22 @@
 {
-  "store_id": 1094,
-  "name": "Artestore Bolsas",
   "domain": "artestore.netlify.app",
-  "short_name": "artestore",
-  "description": "Bolsas de praia, carteiras e clutches, feitas artesanalmente em palha de buriti, milho, carnaúba, rattan e outras. Peças delicadamente feitas à mão por artesãos e artistas comprometidos com a beleza e sustentabilidade.FORTALEZA, CEARÁ, BRASIL",
+  "currency_symbol": "R$",
   "primary_color": "#da9a3c",
-  "secondary_color": "#89cab6",
-  "bg_color": "#fff",
   "theme": {
     "bootswatch": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#fff",
+  "logo": "/img/uploads/logo-artestore.png",
+  "name": "Artestore Bolsas de Palha e Acessórios",
+  "short_name": "artestore",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo-artestore-classico.gif",
+  "country_code": "BR",
+  "secondary_color": "#89cab6",
+  "icon": "/img/uploads/logo-artestore-classico.gif",
+  "store_id": 1094,
+  "description": "Bolsas de praia, carteiras e clutches, feitas artesanalmente em palha dos mais variados tipos. Peças delicadamente feitas à mão por artesãos e artistas comprometidos com a beleza e sustentabilidade.FORTALEZA, CEARÁ, BRASIL",
+  "large_icon": "/img/uploads/logo-artestore-classico.gif"
 }
