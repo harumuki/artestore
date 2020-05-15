@@ -7,14 +7,14 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/1.png",
+          "img": "/img/uploads/banner-artestore-bolsa-de-palha.png",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
         },
         {
-          "img": "/img/uploads/2.png",
+          "img": "/img/uploads/banner-artestore-acessorios.png",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
