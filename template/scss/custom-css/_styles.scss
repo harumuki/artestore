@@ -1,1 +1,35 @@
 // Add your custom CSS here.
+.top-bar, #header {
+  background-color: #faf2e4
+}
+.top-bar {
+  border-bottom: 1px solid #f5e5c8;
+}
+#search-form {
+  border: 1px solid #c6bdaf;
+}
+.header__search-btn svg, .search__submit svg {
+  color: #ef8d66
+}
+body {
+  font-family: 'Open Sans', sans-serif !important;
+}
+footer {
+  background: #faf2e4 !important;
+}
+.footer__title {
+  text-transform: uppercase;
+  color: #381b1c;
+}
+.footer__title + p, .footer__links a {
+  color: #333;
+}
+.footer__credits span {
+  text-align: center;
+  color: #333;
+}
+.product-card__buy button {
+  color: #fff;
+  background: #da9a3c;
+  border-color: #ce8a27;
+}
