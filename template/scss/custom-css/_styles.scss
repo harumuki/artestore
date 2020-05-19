@@ -91,8 +91,10 @@ footer {
   font-size: 21px !important;
   font-weight: 700;
 }
-.product-card__pictures {
-  border: 1px solid #ccc;
+@media (min-width: 768px) {
+  .product-card__pictures {
+    border: 1px solid #ccc;
+  }
 }
 #product .product__payment, #product .prices__installments, .product-card__prices .prices__installments {
   display: none;
