@@ -91,11 +91,19 @@ footer {
   font-size: 21px !important;
   font-weight: 700;
 }
+
 @media (min-width: 768px) {
   .product-card__pictures {
     border: 1px solid #ccc;
   }
 }
+
+@media (max-width: 768px) {
+  .info-bar {
+    display: none !important;
+  }
+}
+
 #product .product__payment, #product .prices__installments, .product-card__prices .prices__installments {
   display: none;
 }
