@@ -33,8 +33,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bolsasredondas.jpg",
-          "link": ""
+          "img": "/img/uploads/4.png",
+          "link": "",
+          "mobile_img": "/img/uploads/1.png"
         },
         {
           "img": "/img/uploads/L-3.jpg"
@@ -45,10 +46,10 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/2a.jpg"
+          "img": "/img/uploads/3.png"
         },
         {
-          "img": "/img/uploads/L-2.jpg"
+          "img": "/img/uploads/2.png"
         }
       ]
     },
