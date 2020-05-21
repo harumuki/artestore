@@ -7,14 +7,14 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-bolsa-artestore.png",
+          "img": "/img/uploads/banner-artestore-300.png",
           "link": "/headset",
           "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "start": "2025-04-11T05:54:00.000Z",
+          "end": "2025-12-31T03:00:00.000Z"
         },
         {
-          "img": "/img/uploads/banner-acessorios-artestore.png",
+          "img": "/img/uploads/banner-lenco-artestore-300.png",
           "alt": "Banner sample two",
           "start": "",
           "end": ""
@@ -23,11 +23,7 @@
     },
     {
       "type": "info-bar",
-      "enabled": false
-    },
-    {
-      "type": "custom-content",
-      "markdown": "<span style=\"text-transform: uppercase; font-size: 20px; font-weight: 400; color: #333\">Tem novidade na loja!</span>"
+      "enabled": true
     },
     {
       "type": "banners-grid",
@@ -38,7 +34,8 @@
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/1.png"
+          "img": "/img/uploads/1.png",
+          "mobile_img": "/img/uploads/copia-de-a-vida-pode-ser-mais-alegre-e-leve-com-acessorios-florais-e-estampas-suaves..png"
         }
       ]
     },
