@@ -23,7 +23,7 @@
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "custom-content",
