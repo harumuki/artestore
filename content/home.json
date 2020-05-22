@@ -7,7 +7,7 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-artestore-300.png",
+          "img": "/img/uploads/banner-artestore-bolsa.png",
           "link": "/headset",
           "alt": "Headset banner",
           "start": "2025-04-11T05:54:00.000Z",
@@ -15,11 +15,17 @@
           "mobile_img": "/img/uploads/banner-bolsa-mobile.png"
         },
         {
-          "img": "/img/uploads/banner-lenco-artestore-300.png",
+          "img": "/img/uploads/banner-slowfashion.png",
           "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-bolsa-mobile.png"
+          "mobile_img": "/img/uploads/copia-de-urbana.png"
+        },
+        {
+          "start": "2020-05-22T17:34:02.147Z",
+          "end": "2020-05-22T17:34:02.193Z",
+          "img": "/img/uploads/banner-moda-sustentavel.png",
+          "mobile_img": "/img/uploads/copia-de-urbana-1-.png"
         }
       ]
     },
