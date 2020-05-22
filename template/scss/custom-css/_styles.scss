@@ -123,3 +123,6 @@ footer {
 .product__discount {
 color: #179487;
 }
+.eapps-widget-toolbar + a {
+  display: none !important;
+}
