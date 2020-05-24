@@ -10,8 +10,8 @@
           "img": "/img/uploads/banner-artestore-bolsa.png",
           "link": "/headset",
           "alt": "Headset banner",
-          "start": "2025-04-11T05:54:00.000Z",
-          "end": "2025-12-31T03:00:00.000Z",
+          "start": "",
+          "end": "",
           "mobile_img": "/img/uploads/banner-bolsa-mobile.png"
         },
         {
@@ -22,8 +22,8 @@
           "mobile_img": "/img/uploads/copia-de-urbana-2-.png"
         },
         {
-          "start": "2020-05-22T17:34:02.147Z",
-          "end": "2021-05-22T17:34:00.000Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner-moda-sustentavel.png",
           "mobile_img": "/img/uploads/copia-de-urbana-1-.png"
         }
