@@ -8,7 +8,7 @@
       "slides": [
         {
           "img": "/img/uploads/banner-artestore-bolsa.png",
-          "link": "/headset",
+          "link": "https://www.artestore.com.br/bolsas-de-palha",
           "alt": "Headset banner",
           "start": "",
           "end": "",
@@ -19,7 +19,8 @@
           "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/copia-de-urbana-2-.png"
+          "mobile_img": "/img/uploads/copia-de-urbana-2-.png",
+          "link": "https://www.artestore.com.br/bolsas-de-palha"
         },
         {
           "start": "",
@@ -44,12 +45,13 @@
       "banners": [
         {
           "img": "/img/uploads/4.png",
-          "link": "",
+          "link": "https://www.artestore.com.br/bolsas-de-palha",
           "mobile_img": ""
         },
         {
           "img": "/img/uploads/1.png",
-          "mobile_img": "/img/uploads/copia-de-a-vida-pode-ser-mais-alegre-e-leve-com-acessorios-florais-e-estampas-suaves..png"
+          "mobile_img": "/img/uploads/copia-de-a-vida-pode-ser-mais-alegre-e-leve-com-acessorios-florais-e-estampas-suaves..png",
+          "link": "https://www.artestore.com.br/lencos"
         }
       ]
     },
@@ -63,10 +65,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/3.png"
+          "img": "/img/uploads/3.png",
+          "link": "https://www.artestore.com.br/colares"
         },
         {
-          "img": "/img/uploads/2.png"
+          "img": "/img/uploads/2.png",
+          "link": "https://www.artestore.com.br/braceletes"
         }
       ]
     },
