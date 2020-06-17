@@ -12,21 +12,21 @@
           "alt": "Headset banner",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-bolsa-mobile.png"
+          "mobile_img": "/img/uploads/bolsa-de-palha-moda-urbana-e-moda-praia.png"
         },
         {
           "img": "/img/uploads/banner-slowfashion.png",
           "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/copia-de-urbana-2-.png",
+          "mobile_img": "/img/uploads/banner-bolsas-de-palha.jpg",
           "link": "https://www.artestore.com.br/bolsas-de-palha"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-moda-sustentavel.png",
-          "mobile_img": "/img/uploads/copia-de-urbana-1-.png"
+          "mobile_img": "/img/uploads/banner-moda-sustentavel.jpg"
         }
       ]
     },
@@ -79,20 +79,6 @@
       "shuffle": true,
       "collection_id": "5ec2fb80126b0d057213d0f1",
       "title": " "
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 10,
-      "start": "2020-05-22T00:28:12.623Z",
-      "end": "2020-07-01T00:28:00.000Z",
-      "offers": [
-        "5ec1d18c126b0d057213c49e",
-        "5ec1be64126b0d057213c1b2",
-        "5ec1bd44126b0d057213c183",
-        "5ec1ae39126b0d057213bf3a",
-        "5ec1c094126b0d057213c20b"
-      ],
-      "notes": "OFERTAS RELÂMPAGO! RESTA POUCO TEMPO..."
     }
   ]
 }
