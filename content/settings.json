@@ -1,13 +1,13 @@
 {
-  "store_id": 1094,
   "domain": "www.artestore.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#da9a3c",
+  "primary_color": "#734c12",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#fff",
-  "logo": "/img/uploads/logo-artestore-plus.png",
+  "logo": "/img/uploads/logo-artestore-plus-recovered.png",
   "name": "Artestore Bolsas de Palha e Acessórios",
   "short_name": "artestore",
   "lang": "pt_br",
@@ -16,7 +16,8 @@
   "favicon": "/img/uploads/favcon-artestore.png",
   "country_code": "BR",
   "secondary_color": "#89cab6",
-  "icon": "/img/uploads/logo-artestore-classico.gif",
+  "icon": "/img/uploads/favcon-artestore.png",
+  "store_id": 1094,
   "description": "Bolsas de palha e acessórios feitos artesanalmente em palha dos mais variados tipos e materiais sustentáveis. Peças delicadamente feitas à mão por artesãos e artistas comprometidos com a beleza e comprometimento social e ambiental. FORTALEZA, CEARÁ, BRASIL",
-  "large_icon": "/img/uploads/logo-artestore-classico.gif"
+  "large_icon": "/img/uploads/favcon-artestore.png"
 }
