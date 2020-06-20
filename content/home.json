@@ -7,7 +7,7 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-artestore-bolsa.png",
+          "img": "/img/uploads/banner-artestore-bolsa.jpg",
           "link": "https://www.artestore.com.br/bolsas-de-palha",
           "alt": "Headset banner",
           "start": "",
@@ -15,17 +15,17 @@
           "mobile_img": "/img/uploads/bolsa-de-palha-moda-urbana-e-moda-praia.jpg"
         },
         {
-          "img": "/img/uploads/banner-slowfashion.png",
+          "img": "/img/uploads/banner-slowfashion.jpg",
           "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-moda-sustentavel.jpg",
+          "mobile_img": "/img/uploads/banner-bolsas-de-palha.jpg",
           "link": "https://www.artestore.com.br/bolsas-de-palha"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-moda-sustentavel.png",
+          "img": "/img/uploads/banner-moda-sustentavel.jpg",
           "mobile_img": "/img/uploads/banner-moda-sustentavel.jpg"
         }
       ]
