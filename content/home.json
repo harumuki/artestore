@@ -38,7 +38,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5ec2faa8126b0d057213d0d1",
-      "title": " Ver Todos",
+      "title": " Ver +",
       "link": "https://www.artestore.com.br/bolsas/"
     },
     {
@@ -60,7 +60,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5ec2ff0d126b0d057213d120",
-      "title": " Ver Todos",
+      "title": " Ver +",
       "headless": false,
       "link": "https://www.artestore.com.br/lencos"
     },
@@ -81,7 +81,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5ec2fb80126b0d057213d0f1",
-      "title": " Ver Todos",
+      "title": " Ver +",
       "headless": false,
       "link": "https://www.artestore.com.br/joias-handmade/"
     }
