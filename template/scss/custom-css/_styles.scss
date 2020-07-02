@@ -5,22 +5,25 @@
 .top-bar {
   border-bottom: 1px solid #f5e5c8;
 }
+.top-bar {
+  text-align: right;
+  }
 #search-form {
-  border: 1px solid #c6bdaf;
+  border: 1px solid #89cab6;
 }
 .header__search-btn svg, .search__submit svg {
-  color: #ef8d66
+  color: #de6d39
 }
-body {
+.body {
   font-family: 'Open Sans', sans-serif !important;
 }
-footer {
+.footer {
   background: #faf2e4 !important;
   border-top: none !important;
 }
 .footer__title {
   text-transform: uppercase;
-  color: #381b1c;
+  color: #696555;
 }
 .footer__title + p, .footer__links a {
   color: #333;
@@ -31,11 +34,12 @@ footer {
 }
 .product-card__buy button {
   color: #fff;
-  background: #da9a3c;
-  border-color: #ce8a27;
+  background: #de6d39;
+  border-color: #de6d39;
 }
 #product-block .product__buy button {
   background: #de6d39;
+  border-color: #de6d39;
   color: #fff;
   width: 100%;
 }
@@ -68,22 +72,22 @@ footer {
 }
 #cart-count {
   color: #fff;
-  background: #452f06;
+  background: #696555;
 }
 .header__toggler svg, #user-button svg, #cart-button svg, #mobile-search-btn svg {
-  color: #da9a3c
+  color: #de6d39
 }
 .top-bar__page-links a {
   font-weight: 400 !important;
 }
 .top-bar__page-links a, .whatsapp-link, .top-bar .fa-facebook, .top-bar .fa-instagram {
-  color: #452f06 !important;
+  color: #696555 !important;
 }
 .product-card__name {
   color: #333;
 }
 .prices__value, .product-card__name:hover {
-  color: #d89a3e;
+  color: #de6d39;
 }
 .product__name {
   color: #696555;
@@ -114,14 +118,14 @@ footer {
   display: none;
 }
 .product-card__offer-stamp, .minicart__btn-checkout.btn.btn-block.btn-primary, .cart__info .cart__btn-checkout.btn.btn-lg.btn-block.btn-success, .checkout__btn-proceed.btn.btn-success.mt-4, .payment__method .btn.btn-success.btn-lg.btn-block {
-  background: #179487;
-  border: #179487;
+  background: #89cab6;
+  border: #89cab6;
 }
 .header__nav a {
   margin-right: .7rem;
 }
 .product__discount {
-color: #179487;
+color: #89cab6;
 }
 .eapps-widget-toolbar + a {
   display: none !important;
