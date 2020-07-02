@@ -52,6 +52,9 @@
   font-size: 26px;
   text-transform: uppercase;
 }
+.products-carousel__title {
+  font-size: 0.75rem;
+}
 #product-description .container {
   border: 1px solid #ccc;
   padding-right: 0px;
@@ -79,7 +82,7 @@
 }
 .top-bar__page-links a {
   font-weight: 400 !important;
-}
+ }
 .top-bar__page-links a, .whatsapp-link, .top-bar .fa-facebook, .top-bar .fa-instagram {
   color: #696555 !important;
 }
@@ -113,9 +116,6 @@
 }
 .minicart__subtotal .prices__installments, .minicart__btn-cart.btn.btn-block.btn-outline-secondary {
   color: #333;
-}
-.collection-shelf .products-carousel__title {
-  display: none;
 }
 .product-card__offer-stamp, .minicart__btn-checkout.btn.btn-block.btn-primary, .cart__info .cart__btn-checkout.btn.btn-lg.btn-block.btn-success, .checkout__btn-proceed.btn.btn-success.mt-4, .payment__method .btn.btn-success.btn-lg.btn-block {
   background: #89cab6;
