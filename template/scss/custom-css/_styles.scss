@@ -1,6 +1,7 @@
 // Add your custom CSS here.
 .top-bar, #header {
-  background-color: #faf2e4
+  background-color: #faf2e4;
+  border-bottom: #ffffff;
 }
 .top-bar {
   border-bottom: 1px solid #f5e5c8;
@@ -129,4 +130,19 @@ color: #89cab6;
 }
 .eapps-widget-toolbar + a {
   display: none !important;
+}
+:root {
+  --light: #faf2e4;
+  --danger: #696555;
+  --primary-lightest: #eeeaf0;
+  --primary-lightest-yiq: #696555;
+  --success: #3f6d5f;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #bcbfc0;
+    border-color: #bcbfc0;
+}
+.product__short-stock {
+  background-color: #e3ebd5;
 }
