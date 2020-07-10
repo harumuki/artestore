@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "",
+    "text": "FRETE FIXO PRA TODO BRASIL DE 12,00 NOS LENÇOS, ECHARPES E JÓIAS HANDMADE",
     "link": ""
   },
   "contacts_stripe": {
@@ -10,12 +10,13 @@
         "link": ""
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": false
   },
   "categories_list": {
     "featured": [],
-    "random": 6
+    "random": 6,
+    "full_width": true
   },
   "search_input": true
 }
