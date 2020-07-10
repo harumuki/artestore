@@ -16,7 +16,7 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": true
+    "full_width": false
   },
   "search_input": true
 }
