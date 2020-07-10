@@ -7,26 +7,26 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/banner-artestore-bolsa.jpg",
+          "img": "/img/uploads/banner-artestore-bolsa.webp",
           "link": "https://www.artestore.com.br/bolsas-de-palha",
           "alt": "Headset banner",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/bolsa-de-palha-moda-urbana-e-moda-praia.jpg"
+          "mobile_img": "/img/uploads/bolsa-de-palha-moda-urbana-e-moda-praia.webp"
         },
         {
-          "img": "/img/uploads/banner-slowfashion.jpg",
+          "img": "/img/uploads/banner-slowfashion.webp",
           "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-bolsas-de-palha.jpg",
+          "mobile_img": "/img/uploads/banner-bolsas-de-palha.webp",
           "link": "https://www.artestore.com.br/bolsas-de-palha"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-moda-sustentave-al.jpg",
-          "mobile_img": "/img/uploads/banner-moda-sustentavel.jpg"
+          "img": "/img/uploads/banner-moda-sustentave-al.webp",
+          "mobile_img": "/img/uploads/banner-moda-sustentavel.webp"
         }
       ]
     },
@@ -45,12 +45,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-chapeus-viseiras-boinas.jpg",
-          "link": "https://www.artestore.com.br/bolsas-de-palha",
+          "img": "/img/uploads/banner-chapeus-viseiras-boinas.webp",
+          "link": "https://www.artestore.com.br/chapeus-e-viseiras",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/banner-lencos-suave.jpg",
+          "img": "/img/uploads/banner-lencos-suave.webp",
           "mobile_img": "",
           "link": "https://www.artestore.com.br/lencos"
         }
