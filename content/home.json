@@ -68,11 +68,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-colares.jpg",
+          "img": "/img/uploads/banner-colares.webp",
           "link": "https://www.artestore.com.br/colares"
         },
         {
-          "img": "/img/uploads/banner-pulseiras.jpg",
+          "img": "/img/uploads/banner-pulseiras.webp",
           "link": "https://www.artestore.com.br/braceletes"
         }
       ]
