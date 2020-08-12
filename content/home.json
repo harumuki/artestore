@@ -101,6 +101,10 @@
           "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true
     }
   ]
 }
