@@ -45,12 +45,12 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-pashmins-cachecois.jpg",
+          "img": "/img/uploads/banner-pashmins-cachecois.webp",
           "link": "https://www.artestore.com.br/search?term=echarpes",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/banner-lencos-echarpes-bandanas.jpg",
+          "img": "/img/uploads/banner-lencos-echarpes-bandanas.webp",
           "mobile_img": "",
           "link": "https://www.artestore.com.br/lencos"
         }
@@ -97,11 +97,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-chapeu.jpg",
+          "img": "/img/uploads/banner-chapeu.webp",
           "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
         },
         {
-          "img": "/img/uploads/banner-boina-ousadia.jpg"
+          "img": "/img/uploads/banner-boina-ousadia.webp"
         }
       ]
     },
