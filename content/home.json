@@ -92,6 +92,15 @@
       "title": " Ver todos acessórios",
       "headless": false,
       "link": "https://www.artestore.com.br/joias-handmade/"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-chapeus-viseiras-boinas.webp",
+          "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
+        }
+      ]
     }
   ]
 }
