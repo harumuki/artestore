@@ -65,6 +65,12 @@
       "link": "https://www.artestore.com.br/lencos-vitrine"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "sort": "news",
+      "collection_id": "5f343975f023684cdbd9cb7f"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -84,12 +90,6 @@
       "title": " Ver todos acessórios",
       "headless": false,
       "link": "https://www.artestore.com.br/joias-handmade/"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "sort": "news",
-      "collection_id": null
     }
   ]
 }
