@@ -12,7 +12,7 @@
           "alt": "Headset banner",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/banner-artestore-m.jpg"
+          "mobile_img": "/img/uploads/banner-artestore-m.webp"
         },
         {
           "img": "/img/uploads/banner-bolsas-artestore.webp",
@@ -25,7 +25,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-sustentavel.jpg",
+          "img": "/img/uploads/banner-sustentavel.webp",
           "mobile_img": "/img/uploads/banner-sustentavel-m.webp"
         }
       ]
