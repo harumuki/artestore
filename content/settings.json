@@ -1,4 +1,5 @@
 {
+  "store_id": 1094,
   "domain": "www.artestore.com.br",
   "currency_symbol": "R$",
   "primary_color": "#734c12",
@@ -17,7 +18,6 @@
   "country_code": "BR",
   "secondary_color": "#89cab6",
   "icon": "/img/uploads/favcon-artestore-8.png",
-  "store_id": 1094,
   "description": "Bolsas de palha e acessórios feitos artesanalmente com materiais sustentáveis. Peças delicadamente feitas à mão por artesãos e artistas comprometidos com a beleza, responsabilidade social e ambiental. FORTALEZA, CEARÁ, BRASIL",
   "large_icon": "/img/uploads/favcon-artestore-8.png"
 }
