@@ -40,5 +40,5 @@ status = 301
 
 [[redirects]]
 from = “/bolsas/”
-to = “/bolsas-de-praia”
+to = “/bolsas-de-praia/”
 status = 301
