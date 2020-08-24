@@ -1,44 +1,44 @@
 [[redirects]]
-from = “/grid/ofertas”
-to = “/index”
+from = "/grid/ofertas"
+to = "/index"
 status = 301
 
 [[redirects]]
-from = “/contato”
-to = “/pages/contato”
+from = "/contato"
+to = "/pages/contato"
 status = 301
 
 [[redirects]]
-from = “/bolsa-redonda-de-palha-rattan-artestore-palha-crua”
-to = “/index”
+from = "/bolsa-redonda-de-palha-rattan-artestore-palha-crua"
+to = "/index"
 status = 301
 
 [[redirects]]
-from = “/busca”
-to = “/index”
+from = "/busca"
+to = "/index"
 status = 301
 
 [[redirects]]
-from = “/atacado.bolsadepalha.artestore.com.br/”
-to = “/index”
+from = "/atacado.bolsadepalha.artestore.com.br/"
+to = "/index"
 status = 301
 
 [[redirects]]
-from = “/cangas/”
-to = “/index”
+from = "/cangas/"
+to = "/index"
 status = 301
 
 [[redirects]]
-from = “/acessorios/”
-to = “/index”
+from = "/acessorios/"
+to = "/index"
 status = 301
 
 [[redirects]]
-from = “/pashmina-feminina-artestore-echarpe-lenco-grande-xadrez-tons-de-cinza”
-to = “/pashmina-artestore-echarpe-lenco-vichy-xadrez-tons-de-cinza/”
+from = "/pashmina-feminina-artestore-echarpe-lenco-grande-xadrez-tons-de-cinza"
+to = "/pashmina-artestore-echarpe-lenco-vichy-xadrez-tons-de-cinza/"
 status = 301
 
 [[redirects]]
-from = “/bolsas/”
-to = “/bolsas-de-praia/”
+from = "/bolsas/"
+to = "/bolsas-de-praia/"
 status = 301
