@@ -8,7 +8,7 @@
       "slides": [
         {
           "img": "/img/uploads/banner-artestore-p.webp",
-          "link": "https://www.artestore.com.br/bolsas-de-palha",
+          "link": "https://www.artestore.com.br/bolsas-de-praia/",
           "alt": "Headset banner",
           "start": "",
           "end": "",
@@ -88,7 +88,7 @@
         },
         {
           "img": "/img/uploads/banner-pulseiras.webp",
-          "link": "https://www.artestore.com.br/braceletes"
+          "link": "https://www.artestore.com.br/pulseira-masculina/"
         }
       ]
     },
@@ -108,7 +108,8 @@
           "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
         },
         {
-          "img": "/img/uploads/ousadia-boinas.webp"
+          "img": "/img/uploads/ousadia-boinas.webp",
+          "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
         }
       ]
     },
