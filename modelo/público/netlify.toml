@@ -33,7 +33,8 @@ from = "/acessorios/"
 to = "/index"
 status = 301
 
-[[redirects]]
-from = "/pashmina-feminina-artestore-echarpe-lenco-grande-xadrez-tons-de-cinza"
-to = "/pashmina-artestore-echarpe-lenco-vichy-xadrez-tons-de-cinza/"
+[[redireciona]]
+from = "/ bolsas /"
+to = "/ bolsas-de-praia /"
 status = 301
+
