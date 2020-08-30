@@ -32,9 +32,3 @@ status = 301
 from = "/acessorios/"
 to = "/index"
 status = 301
-
-[[redireciona]]
-from = "/ bolsas /"
-to = "/ bolsas-de-praia /"
-status = 301
-
