@@ -29,6 +29,31 @@ to = "/index"
 status = 301
 
 [[redirects]]
-from = "/acessorios/"
+from =  "/braceletees/"
+to = "/pulseira-masculina/"
+status = 301
+
+[[redirects]]
+from =  "/acessorios/"
 to = "/index"
+status = 301
+
+[[redirects]]
+from =  "/bolsas/"
+to = "/bolsas-de-praia/"
+status = 301
+
+[[redirects]]
+from =  "/carteira-de-palha/"
+to = "/clutches-e-carteiras/"
+status = 301
+
+[[redirects]]
+from =  "/carteiras-clutch-festa-casamento/"
+to = "/clutches-e-carteiras/"
+status = 301
+
+[[redirects]]
+from =  "/lencos/"
+to = "/lencos-echarpes-cachecois-pashminas/"
 status = 301
