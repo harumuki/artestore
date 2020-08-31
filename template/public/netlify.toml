@@ -57,3 +57,9 @@ status = 301
 from =  "/lencos/"
 to = "/lencos-echarpes-cachecois-pashminas/"
 status = 301
+
+[[redirects]]
+from = "/bolsas-redondas/"
+to = "/bolsas-de-praia/"
+status = 301
+
