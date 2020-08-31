@@ -1,1 +1,34 @@
+[[redirects]]
+from = "/grid/ofertas"
+to = "/index"
+status = 301
 
+[[redirects]]
+from = "/contato"
+to = "/pages/contato"
+status = 301
+
+[[redirects]]
+from = "/bolsa-redonda-de-palha-rattan-artestore-palha-crua"
+to = "/index"
+status = 301
+
+[[redirects]]
+from = "/busca"
+to = "/index"
+status = 301
+
+[[redirects]]
+from = "/atacado.bolsadepalha.artestore.com.br/"
+to = "/index"
+status = 301
+
+[[redirects]]
+from = "/cangas/"
+to = "/index"
+status = 301
+
+[[redirects]]
+from = "/acessorios/"
+to = "/index"
+status = 301
