@@ -1,5 +1,5 @@
 {
   "css": "",
-  "html_head": "",
+  "html_head": "<!-- MailerLite Universal -->\n<script>\n(function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){\nvar c={ a:arguments,q:[]};var r=this.push(c);return \"number\"!=typeof r?r:f.bind(c.q);}\nf.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);\nvar _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));\n_.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');\n\nvar ml_account = ml('accounts', '2353442', 'i4d9a5y7t2', 'load');\n</script>\n<!-- End MailerLite Universal -->",
   "html_body": ""
 }
