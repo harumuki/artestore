@@ -1,10 +1,10 @@
 {
   "pkg": "@ecomplus/widget-fb-pixel",
-  "active": false,
+  "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "fbqContainerId": "1685376285033685",
+    "fbqContainerId": "234557264578342",
     "debug": false
   },
   "headAppend": "src/append/head",
