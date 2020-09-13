@@ -5,10 +5,14 @@
   "meta_description": "Lenço e Echarpe, como usar? qual a diferença entre lenço e echarpe? tipos de tecidos, cores ou estampados?",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/copia-de-urbana-3-.png",
-      "link": "https://www.artestore.com.br/lencos-echarpes-cachecois-pashminas/",
-      "alt": "Lenço, Bandana, Echarpe, Pashmina, como usar?"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/copia-de-urbana-3-.png",
+          "link": "https://www.artestore.com.br/lencos-echarpes-cachecois-pashminas/",
+          "alt": "Lenço, Bandana, Echarpe, Pashmina, como usar?"
+        }
+      ]
     }
   ]
 }
