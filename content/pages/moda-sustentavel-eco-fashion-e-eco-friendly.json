@@ -7,7 +7,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/moda-praia-sustentavel.webp",
-      "alt": "O que é Moda Sustentável, Eco Fashion e Eco Friendly?"
+      "alt": "O que é Moda Sustentável, Eco Fashion e Eco Friendly?",
+      "mobile_img": "/img/uploads/moda-praia-sustentavel-m.webp"
     }
   ]
 }
