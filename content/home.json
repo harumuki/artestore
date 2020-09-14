@@ -9,14 +9,14 @@
         {
           "img": "/img/uploads/banner-artestore-p.webp",
           "link": "https://www.artestore.com.br/bolsas-de-praia/",
-          "alt": "Headset banner",
+          "alt": "Bolsas de Praia Artestore, a Palha nossa matéria prima sustentável.",
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/banner-artestore-m.webp"
         },
         {
           "img": "/img/uploads/banner-bolsas-artestore.webp",
-          "alt": "Banner sample two",
+          "alt": "Bolsas de Praia em Palha, tendência também na cidade",
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/banner-bolsas-m.webp",
@@ -26,7 +26,8 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-sustentavel.webp",
-          "mobile_img": "/img/uploads/banner-sustentavel-m.webp"
+          "mobile_img": "/img/uploads/banner-sustentavel-m.webp",
+          "alt": "Bolsas de Praia feitas à mão, trabalho artesanal de artesãos do nordeste"
         }
       ]
     },
@@ -54,12 +55,14 @@
         {
           "img": "/img/uploads/banner-pashmins-cachecois.webp",
           "link": "https://www.artestore.com.br/search?term=echarpes",
-          "mobile_img": ""
+          "mobile_img": "",
+          "alt": "Pashminas e Cachecóis acessórios que garantem charme e elegância"
         },
         {
           "img": "/img/uploads/banner-lencos-echarpes-bandanas.webp",
           "mobile_img": "",
-          "link": "https://www.artestore.com.br/lencos"
+          "link": "https://www.artestore.com.br/lencos",
+          "alt": "Lenços, bandanas e Echarpes, muitas cores e estampas para ousar no look"
         }
       ]
     },
@@ -84,11 +87,13 @@
       "banners": [
         {
           "img": "/img/uploads/banner-colares.webp",
-          "link": "https://www.artestore.com.br/colares"
+          "link": "https://www.artestore.com.br/colares",
+          "alt": "Colares e Cordões Femininos em Metais e Pedras"
         },
         {
           "img": "/img/uploads/banner-pulseiras.webp",
-          "link": "https://www.artestore.com.br/pulseira-masculina/"
+          "link": "https://www.artestore.com.br/pulseira-masculina/",
+          "alt": "Pulseiras em Couro Masculinas e Braceletes com estilo e personalidade"
         }
       ]
     },
@@ -105,11 +110,13 @@
       "banners": [
         {
           "img": "/img/uploads/banner-chapeu.webp",
-          "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
+          "link": "https://www.artestore.com.br/chapeus-e-viseiras/",
+          "alt": "Chapéus e viseiras para se proteger do sol com elegância"
         },
         {
           "img": "/img/uploads/ousadia-boinas.webp",
-          "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
+          "link": "https://www.artestore.com.br/chapeus-e-viseiras/",
+          "alt": "Boinas Femininas e Masculinas cheias de ousadia e charme"
         }
       ]
     },
