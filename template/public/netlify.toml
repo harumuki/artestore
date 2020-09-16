@@ -63,3 +63,38 @@ from = "/bolsas-redondas/"
 to = "/bolsas-de-praia/"
 status = 301
 
+[[redirects]]
+from = "/bolsa-de-palha-redonda-g-rattan-com-alca-de-couro-com-detalhes-vazados/"
+to = "/bolsas-de-praia/"
+status = 301
+
+[[redirects]]
+from = "/bolsa-de-palha-redonda-rattan-com-desenho-estrela-com-alca-de-couro/"
+to = "/bolsas-de-praia/"
+status = 301
+
+[[redirects]]
+from = "/bolsa-de-palha-redonda-g-rattan-com-alca-de-couro-com-detalhes-vazados-branca/"
+to = "/bolsas-de-praia/"
+status = 301
+
+[[redirects]]
+from = "/bolsa-de-palha-redonda-g-rattan-vazada-branca-com-conchinhas-buzios/"
+to = "/bolsas-de-praia/"
+status = 301
+
+[[redirects]]
+from = "/bolsa-de-palha-cestinha-redonda-pequena/"
+to = "/bolsas-de-praia/"
+status = 301
+
+[[redirects]]
+from = "/bolsa-de-palha-trico-sacola-praia-trancada-com-alca-de-madeira-crua-natural/"
+to = "/bolsas-de-praia/"
+status = 301
+
+[[redirects]]
+from = "/bolsa-redonda-extra-grande-de-palha-e-couro-com-franjas-e-alca-redonda/"
+to = "/bolsas-de-praia/"
+status = 301
+
