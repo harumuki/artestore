@@ -7,19 +7,19 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2020-09-16T00:17:49.346Z",
+          "end": "2020-09-19T02:59:00.000Z",
+          "img": "/img/uploads/compre-e-ganhe-uma-carteira-de-madeira.webp",
+          "alt": "Compre e Ganhe uma Carteira Toda em Madeira",
+          "mobile_img": "/img/uploads/compre-e-ganhe-uma-carteira-de-madeira-m.webp"
+        },
+        {
           "img": "/img/uploads/banner-artestore-p.webp",
           "link": "https://www.artestore.com.br/bolsas-de-praia/",
           "alt": "Bolsas de Praia Artestore, a Palha nossa matéria prima sustentável.",
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/banner-artestore-m.webp"
-        },
-        {
-          "start": "2020-09-16T00:17:49.346Z",
-          "end": "2020-09-19T02:59:00.000Z",
-          "img": "/img/uploads/compre-e-ganhe-uma-carteira-de-madeira.webp",
-          "alt": "Compre e Ganhe uma Carteira de Madeira",
-          "mobile_img": "/img/uploads/compre-e-ganhe-uma-carteira-de-madeira-m.webp"
         },
         {
           "img": "/img/uploads/banner-bolsas-artestore.webp",
