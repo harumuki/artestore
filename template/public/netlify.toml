@@ -29,7 +29,7 @@ to = "/index"
 status = 301
 
 [[redirects]]
-from =  "/braceletees/"
+from =  "/braceletes/"
 to = "/pulseira-masculina/"
 status = 301
 
