@@ -46,8 +46,8 @@
     ]
   },
   "links_2": {
-    "list_categories": false,
-    "title": "",
+    "list_categories": true,
+    "title": "Nossos Produtos",
     "list": []
   },
   "contacts": {
