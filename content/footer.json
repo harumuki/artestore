@@ -48,7 +48,40 @@
   "links_2": {
     "list_categories": true,
     "title": "Nossos Produtos",
-    "list": []
+    "list": [
+      {
+        "text": "Bolsas de Praia",
+        "url": "https://www.artestore.com.br/bolsas-de-praia/"
+      },
+      {
+        "text": "Bolsas de Palha",
+        "url": "https://www.artestore.com.br/bolsas-de-palha/"
+      },
+      {
+        "text": "Bolsas com Madeira",
+        "url": "https://www.artestore.com.br/bolsas-com-madeira/"
+      },
+      {
+        "text": "Clutch e Carteiras",
+        "url": "https://www.artestore.com.br/clutches-e-carteiras/"
+      },
+      {
+        "text": "Bolsas de Festa",
+        "url": "https://www.artestore.com.br/bolsas-de-festa/"
+      },
+      {
+        "text": "Lenços",
+        "url": "https://www.artestore.com.br/lencos-echarpes-cachecois-pashminas/"
+      },
+      {
+        "text": "Pulseiras Masculinas",
+        "url": "https://www.artestore.com.br/pulseira-masculina/"
+      },
+      {
+        "text": "Chapéus e Boinas",
+        "url": "https://www.artestore.com.br/chapeus-e-viseiras/"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
