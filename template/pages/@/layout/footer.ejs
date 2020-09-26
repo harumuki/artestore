@@ -139,10 +139,38 @@ const networksWithColors = [
           data-toggle="collapse"
           href="#footer-categories"
           role="button"
-          aria-expanded="false"
-          aria-controls="footer-instagram"
+          aria-expanded="true"
+          aria-controls="footer-categories"
         >
-       
+        <%= footer.links_2.title || _.dictionary('pages') %>
+      </a>
+      <div class="collapse" id="footer-pages">
+        <% if (footer.links_2.list_pages) { %>
+          <ul class="footer__links">
+            <% (_.cms('pages') || []).forEach(slug => { %>
+              <% const { title } = _.cms(`pages/${slug}`) %>
+              <li>
+                <i class="fas fa-angle-right"></i>
+                <a href="/pages/<%= slug %>">
+                  <%= title %>
+                </a>
+              </li>
+            <% }) %>
+          </ul>
+        <% } else { %>
+          <ul class="footer__links">
+            <% footer.links_2.list.forEach(({ url, text }) => { %>
+              <li>
+                <i class="fas fa-angle-right"></i>
+                <a href="<%= url %>">
+                  <%= text %>
+                </a>
+              </li>
+            <% }) %>
+          </ul>
+        <% } %>
+      </div>
+
       </div>
 
 
