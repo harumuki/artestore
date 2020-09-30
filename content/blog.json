@@ -1,6 +1,6 @@
 {
   "title": "Dicas Moda Praia Artestore",
-  "meta_title": "Blog",
+  "meta_title": "Blog Artestore - Dicas de como usar bolsa de palha e acessórios.",
   "meta_description": "Dicas sobre Moda Praia, Bolsas de Palha principalmente as bolsas feitas em palha, como usar, qual escolher?",
   "sections": [
     {
@@ -12,7 +12,7 @@
     },
     {
       "type": "blog",
-      "enabled": false
+      "enabled": true
     }
   ]
 }
