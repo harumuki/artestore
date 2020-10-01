@@ -9,9 +9,10 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/lenco-bandana-echarpe-pashmina-como-usar-m.webp",
+      "img": "/img/uploads/lenco-bandana-echarpe-pashmina-como-usar_1.webp",
       "alt": "Várias Formas de Usar Lenço",
-      "link": "https://www.artestore.com.br/lencos-echarpes-cachecois-pashminas/"
+      "link": "https://www.artestore.com.br/lencos-echarpes-cachecois-pashminas/",
+      "mobile_img": "/img/uploads/lenco-bandana-echarpe-pashmina-como-usar-m.webp"
     },
     {
       "type": "blog-post",
