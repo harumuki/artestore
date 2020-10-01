@@ -8,6 +8,10 @@
   "meta_description": "Temos uma infinidade de tipos de lenços, desde os lisos aos estampados. Tecidos de algodão mais encorpado como as bandanas ou tecidos transparentes, fininhos e fluidos como o chiffon, sem esquecer também dos acetinados.",
   "sections": [
     {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5ec2ff0d126b0d057213d120",
