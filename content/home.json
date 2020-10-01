@@ -133,6 +133,10 @@
       "collection_id": "5f3445fdf023684cdbd9d122",
       "title": "VEJA TODOS OS CHAPÉUS, VISEIRAS E BOINAS",
       "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
