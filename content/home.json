@@ -7,27 +7,12 @@
       "autoplay": 0,
       "slides": [
         {
-          "start": "2020-09-26T02:24:36.261Z",
-          "end": "2020-10-01T02:59:00.000Z",
-          "img": "/img/uploads/compre-e-ganhe-uma-bandana-loja.webp",
-          "alt": "Compre e Ganhe uma Bandana Tie Dye",
-          "mobile_img": "/img/uploads/compre-e-ganhe-uma-bandana.webp"
-        },
-        {
           "img": "/img/uploads/banner-artestore-p.webp",
           "link": "https://www.artestore.com.br/bolsas-de-praia/",
           "alt": "Bolsas de Praia Artestore, a Palha nossa matéria prima sustentável.",
           "start": "",
           "end": "",
           "mobile_img": "/img/uploads/banner-artestore-m.webp"
-        },
-        {
-          "img": "/img/uploads/banner-bolsas-artestore.webp",
-          "alt": "Bolsas de Praia em Palha, tendência também na cidade",
-          "start": "",
-          "end": "",
-          "mobile_img": "/img/uploads/banner-bolsas-m.webp",
-          "link": "https://www.artestore.com.br/bolsas-de-palha"
         },
         {
           "start": "",
