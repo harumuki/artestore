@@ -45,14 +45,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/banner-pashmins-cachecois.webp",
+          "img": "/img/uploads/banner-pashminas-e-echarpes.webp",
           "link": "https://www.artestore.com.br/search?term=echarpes",
-          "mobile_img": "/img/uploads/banner-pashminas-e-echarpes.webp",
+          "mobile_img": "",
           "alt": "Pashminas e Cachecóis acessórios que garantem charme e elegância"
         },
         {
           "img": "/img/uploads/banner-lencos-echarpes-bandanas.webp",
-          "mobile_img": "/img/uploads/banner-lencos.webp",
+          "mobile_img": "",
           "link": "https://www.artestore.com.br/lencos",
           "alt": "Lenços, bandanas e Echarpes, muitas cores e estampas para ousar no look"
         }
@@ -104,13 +104,13 @@
           "img": "/img/uploads/banner-chapeu.webp",
           "link": "https://www.artestore.com.br/chapeus-e-viseiras/",
           "alt": "Chapéus e viseiras para se proteger do sol com elegância",
-          "mobile_img": "/img/uploads/banner-chapeus.webp"
+          "mobile_img": ""
         },
         {
           "img": "/img/uploads/ousadia-boinas.webp",
           "link": "https://www.artestore.com.br/chapeus-e-viseiras/",
           "alt": "Boinas Femininas e Masculinas cheias de ousadia e charme",
-          "mobile_img": "/img/uploads/banner-boinas.webp"
+          "mobile_img": ""
         }
       ]
     },
