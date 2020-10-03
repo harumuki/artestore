@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".login__oauth, .login__btn--facebook, .login__btn--google, .login__btn--windowslive {\n  display: none;\n}",
   "html_head": "",
   "html_body": "<style>\n    @media only screen and (min-width: 768px){\n        .whatsapp-chat .hide-mobile {\n            display: none\n        }\n    }\n\n    @media only screen and (max-width: 767px){\n        .whatsapp-chat .hide-web {\n            display: none;\n        }\n    }\n\n    .whatsapp-chat {\n        position: fixed;\n        z-index: 999;\n        bottom: 110px;\n        right: 10px;\n    }\n\n    .whatsapp-chat img {\n        height: 70px;\n        width: auto;\n    }\n</style>\n\n<div class=\"whatsapp-chat\">\n    <a class=\"hide-web\" href=\"https://api.whatsapp.com/send?phone=5585988061215&text=Oi, quero saber mais sobre um produto\" target=\"_blank\">\n        <img title=\"Contato via Whatsapp\" src=\"https://ecom-vbrugkoz.sfo2.digitaloceanspaces.com/@v2-1595003570484-whats.gif\">\n    </a>\n\n    <a class=\"hide-mobile\" href=\"https://api.whatsapp.com/send?phone=5585988061215&text=Oi, quero saber mais sobre um produto\" target=\"_blank\">\n        <img title=\"Contato via Whatsapp\" src=\"https://ecom-vbrugkoz.sfo2.digitaloceanspaces.com/@v2-1595003570484-whats.gif\">\n    </a>\n</div>"
 }
