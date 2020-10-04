@@ -1,3 +1,6 @@
+[build]
+  command = "echo 'pre-rendered'"
+
 [[redirects]]
 from = "/atacado.bolsadepalha.artestore.com.br/"
 to = "/index"
