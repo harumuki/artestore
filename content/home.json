@@ -3,6 +3,20 @@
   "meta_description": "Bolsas de praia, carteiras e clutches em palha, moda sustentável. Acessórios para praia, chapéus e lenços. Delicado trabalho feito à mão por artesãos e artistas comprometidos com a beleza e sustentabilidade.",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-artestore-p.webp",
+          "link": "https://www.artestore.com.br/bolsas-de-praia/",
+          "alt": "Bolsas de Praia Artestore, Moda Praia Sustentável",
+          "mobile_img": "/img/uploads/banner-artestore-m.webp"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
@@ -26,23 +40,7 @@
       "collection_id": "5ec2ff0d126b0d057213d120",
       "title": " Ver todos os lenços",
       "headless": false,
-      "link": "https://www.artestore.com.br/lencos-vitrine"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "sort": "news",
-      "collection_id": "5f343975f023684cdbd9cb7f",
-      "title": "VEJA TODAS AS PASHMINAS E CACHECÓIS",
-      "link": "https://www.artestore.com.br/search?term=pashmina"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": "5ec2fb80126b0d057213d0f1",
-      "title": " Ver todos acessórios",
-      "headless": false,
-      "link": "https://www.artestore.com.br/joias-handmade/"
+      "link": "https://www.artestore.com.br/lencos-echarpes-cachecois-pashminas/"
     },
     {
       "type": "collection-shelf",
@@ -52,18 +50,12 @@
       "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-artestore-p.webp",
-          "link": "https://www.artestore.com.br/bolsas-de-praia/",
-          "alt": "Bolsas de Praia Artestore, Moda Praia Sustentável",
-          "mobile_img": "/img/uploads/banner-artestore-m.webp"
-        }
-      ]
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5ec2fb80126b0d057213d0f1",
+      "title": " Ver todos acessórios",
+      "headless": false,
+      "link": "https://www.artestore.com.br/joias-handmade/"
     }
   ]
 }
