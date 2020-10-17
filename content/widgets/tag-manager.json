@@ -1,10 +1,10 @@
 {
   "pkg": "@ecomplus/widget-tag-manager",
-  "active": true,
+  "active": false,
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": "GTM-T65VZ9",
+    "gtmContainerId": "GTM-Tirei",
     "dataLayerVar": "dataLayer"
   },
   "headAppend": "src/append/head",
