@@ -21,23 +21,6 @@
       "link": "https://www.artestore.com.br/bolsas-com-madeira/"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-pashmins-cachecois.webp",
-          "link": "https://www.artestore.com.br/search?term=echarpes",
-          "mobile_img": "",
-          "alt": "Pashminas e Cachecóis acessórios que garantem charme e elegância"
-        },
-        {
-          "img": "/img/uploads/banner-lencos-echarpes-bandanas.webp",
-          "mobile_img": "",
-          "link": "https://www.artestore.com.br/lencos",
-          "alt": "Lenços, bandanas e Echarpes, muitas cores e estampas para ousar no look"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5ec2ff0d126b0d057213d120",
@@ -54,44 +37,12 @@
       "link": "https://www.artestore.com.br/search?term=pashmina"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-colares.webp",
-          "link": "https://www.artestore.com.br/colares",
-          "alt": "Colares e Cordões Femininos em Metais e Pedras"
-        },
-        {
-          "img": "/img/uploads/banner-pulseiras.webp",
-          "link": "https://www.artestore.com.br/pulseira-masculina/",
-          "alt": "Pulseiras Masculinas em Couro e Aço e Braceletes com estilo e personalidade"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5ec2fb80126b0d057213d0f1",
       "title": " Ver todos acessórios",
       "headless": false,
       "link": "https://www.artestore.com.br/joias-handmade/"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-chapeu.webp",
-          "link": "https://www.artestore.com.br/chapeus-e-viseiras/",
-          "alt": "Chapéus e viseiras para se proteger do sol com elegância",
-          "mobile_img": ""
-        },
-        {
-          "img": "/img/uploads/ousadia-boinas.webp",
-          "link": "https://www.artestore.com.br/chapeus-e-viseiras/",
-          "alt": "Boinas Femininas e Masculinas cheias de ousadia e charme",
-          "mobile_img": ""
-        }
-      ]
     },
     {
       "type": "collection-shelf",
@@ -101,11 +52,18 @@
       "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
     },
     {
-      "type": "responsive-banner",
-      "link": "https://www.artestore.com.br/bolsas-de-praia/",
-      "alt": "Bolsas de Praia Artestore, a Palha nossa matéria prima sustentável.",
-      "img": "/img/uploads/banner-artestore-p.jpg",
-      "mobile_img": "/img/uploads/banner-artestore-m.jpg"
+      "type": "banner-slider",
+      "autoplay": 0,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-artestore-p.webp",
+          "link": "https://www.artestore.com.br/bolsas-de-praia/",
+          "alt": "Bolsas de Praia Artestore, a Palha nossa matéria prima sustentável.",
+          "mobile_img": "/img/uploads/banner-artestore-m.webp"
+        }
+      ]
     }
   ]
 }
