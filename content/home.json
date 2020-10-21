@@ -3,18 +3,11 @@
   "meta_description": "Bolsas de praia, carteiras e clutches em palha, moda sustentável. Acessórios para praia, chapéus e lenços. Delicado trabalho feito à mão por artesãos e artistas comprometidos com a beleza e sustentabilidade.",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-artestore-p.webp",
-          "link": "https://www.artestore.com.br/bolsas-de-praia/",
-          "alt": "Bolsas de Praia Artestore, Moda Praia Sustentável",
-          "mobile_img": "/img/uploads/banner-artestore-m.webp"
-        }
-      ]
+      "type": "responsive-banner",
+      "link": "https://www.artestore.com.br/bolsas-de-praia/",
+      "alt": "Bolsas de Praia Artestore, Moda Praia Sustentável",
+      "mobile_img": "/img/uploads/banner-artestore-m.webp",
+      "img": "/img/uploads/banner-artestore-p.webp"
     },
     {
       "type": "info-bar",
