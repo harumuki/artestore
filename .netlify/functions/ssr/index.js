@@ -1,5 +1,4 @@
 const path = require('path')
-const StorefrontRouter = require('@ecomplus/storefront-router')
 
 process.env.NODE_ENV = 'production'
 process.env.STOREFRONT_BASE_DIR = __dirname
@@ -31,17 +30,6 @@ exports.handler = (ev, context, callback) => {
   const req = {
     url: ev.path.charAt(0) === '/' ? ev.path : `/${ev.path}`
   }
-
-  const storeId = require(path.join(path.resolve(process.env.STOREFRONT_BASE_DIR, 'content'), 'settings.json')).store_id
-  const router = new StorefrontRouter(storeId)
-
-  router.list()
-    .then(routes => {
-      router.map(req.url).then(route => {
-        callback(null, { statusCode, headers, body: JSON.stringify({ req, routes, route }, null, 2) })
-      })
-    })
-  return
 
   const res = {
     set (header, value) {
