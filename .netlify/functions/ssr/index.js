@@ -30,6 +30,9 @@ exports.handler = (ev, context, callback) => {
   const req = {
     url: ev.path.charAt(0) === '/' ? ev.path : `/${ev.path}`
   }
+  
+  callback(null, { statusCode, headers, body: JSON.stringify(req) })
+  return
 
   const res = {
     set (header, value) {
