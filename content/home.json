@@ -15,21 +15,21 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": "5ec2faa8126b0d057213d0d1",
       "title": " Ver todas as bolsas de praia",
       "link": "https://www.artestore.com.br/bolsas-de-praia/"
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": "5f35991ef023684cdbda25d0",
       "title": "Ver Todas Bolsas em Madeira",
       "link": "https://www.artestore.com.br/bolsas-com-madeira/"
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "collection_id": "5ec2ff0d126b0d057213d120",
       "title": " Ver todos os lenços",
       "headless": false,
