@@ -135,7 +135,6 @@ jobs:
         run: echo $RANDOM > .deploy/.isg
 
       - name: Reset dist to clear Git ref
-        if: steps.partial_build.outputs.isg == 0
         continue-on-error: true
         env:
           REMOTE_REPO: ${{ steps.remote_repo.outputs.url }}
