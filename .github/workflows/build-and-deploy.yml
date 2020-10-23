@@ -52,7 +52,7 @@ jobs:
         uses: actions/cache@v1
         with:
           path: .deploy/publish
-          key: ${{ hashFiles('.bundles.json') }}
+          key: ${{ hashFiles('.bundles.json') }}-v2
 
       - name: Install dependencies
         run: npm ci --only=production
@@ -129,6 +129,7 @@ jobs:
           rm -rf .deploy/functions
 
       - name: Reset dist to clear Git ref
+        if: steps.partial_build.outputs.isg == 0
         continue-on-error: true
         env:
           REMOTE_REPO: ${{ steps.remote_repo.outputs.url }}
