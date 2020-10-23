@@ -128,12 +128,6 @@ jobs:
           npx zip-it-and-ship-it .deploy/functions .deploy/functions-zip
           rm -rf .deploy/functions
 
-      - name: Output ISG state
-        if: steps.partial_build.outputs.isg != 0
-        env:
-          ISG_ENUM: ${{ steps.partial_build.outputs.isg }}
-        run: echo $RANDOM > .deploy/.isg
-
       - name: Reset dist to clear Git ref
         if: steps.partial_build.outputs.isg == 0
         continue-on-error: true
