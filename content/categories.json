@@ -8,6 +8,11 @@
       "type": "page-title"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/desconto-boleto.webp",
+      "mobile_img": "/img/uploads/desconto-boleto-m.webp"
+    },
+    {
       "type": "document-banner",
       "enabled": true
     },
