@@ -12,13 +12,13 @@
       "enabled": true
     },
     {
-      "type": "category-retail",
-      "enabled": true
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/desconto-boleto.webp",
       "mobile_img": "/img/uploads/desconto-boleto-m.webp"
+    },
+    {
+      "type": "category-retail",
+      "enabled": true
     },
     {
       "type": "document-description",
