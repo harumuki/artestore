@@ -37,25 +37,26 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": "",
-      "page": 1,
-      "link": "https://www.artestore.com.br/clutches-e-carteiras/",
-      "title": "VER TODAS CARTEIRAS E CLUTCHES"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "5f3445fdf023684cdbd9d122:collections:Chapéus e Viseiras:/chapeus-e-viseiras-boinas",
-      "title": "VER TODOS OS CHAPÉUS, VISEIRAS E BOINAS",
-      "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
-    },
-    {
-      "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5ec1a40d126b0d057213ac41:categories:Bolsas com Madeira:/bolsas-com-madeira/",
       "title": "Ver Todas Bolsas em Madeira",
       "link": "https://www.artestore.com.br/bolsas-com-madeira/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": "",
+      "page": 1,
+      "link": "https://www.artestore.com.br/clutches-e-carteiras/",
+      "title": "VER TODAS CARTEIRAS E CLUTCHES",
+      "collection_id": "5f4d76c17430f92180ea9839:categories:Clutch e Carteiras:/clutches-e-carteiras/"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5f3445fdf023684cdbd9d122:collections:Chapéus e Viseiras:/chapeus-e-viseiras-boinas",
+      "title": "VER TODOS OS CHAPÉUS, VISEIRAS E BOINAS",
+      "link": "https://www.artestore.com.br/chapeus-e-viseiras/"
     },
     {
       "type": "collection-shelf",
