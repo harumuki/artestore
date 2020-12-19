@@ -60,7 +60,7 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "5ec2fb80126b0d057213d0f1",
+      "collection_id": "5f4d76c17430f92180ea9839:categories:Clutch e Carteiras:/clutches-e-carteiras/",
       "title": " Ver todos acessórios",
       "headless": false,
       "link": "https://www.artestore.com.br/joias-handmade/"
@@ -68,6 +68,14 @@
     {
       "type": "page-title",
       "title": "Artestore, Bolsas de Palha, Praia e Acessórios"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": 1,
+      "link": "https://www.artestore.com.br/clutches-e-carteiras/",
+      "title": "VER TODAS CARTEIRAS E CLUTCHES"
     }
   ]
 }
