@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.844b8b860babb5a86077616bcdc6983f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.95c87a3144be30002a3fdeb9b8456a20.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.b39883581906506a913baeae46f71a79.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.ea0a2c78e445131133abf0680f909756.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.6270d330e49a07e36778f6f06e870dd9.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Artestore Bolsas de Praia e Acessórios",
+  "short_name": "Artestore",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Bolsas de praia e acessórios feitos artesanalmente com materiais sustentáveis. Peças delicadamente feitas à mão por artesãos e artistas comprometidos com a beleza, responsabilidade social e ambiental. ",
+  "background_color": "#fff",
+  "theme_color": "#734c12"
+}
